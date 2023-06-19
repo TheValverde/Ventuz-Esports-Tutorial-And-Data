@@ -1,37 +1,38 @@
 {
-  "TriCode": "PHX",
-  "TeamName": "Phoenix Rising",
+  "TriCode": "SE",
+  "TeamName": "Serenity ESports",
+  "15BoxName" : "SE",
   "PrimaryColors": {
-    "Color1" : "#FF4500",
+    "Color1" : "#008080",
     "Color2" : "",
-    "Color3" : "000000",
+    "Color3" : "FFFFFF",
     "AlphaBlendColorOp" : "Maximum"
   },
   "AlternateColors": {
-    "Color1" : "#FE2D2D",
+    "Color1" : "#008080",
     "Color2" : "",
-    "Color3" : "White",
+    "Color3" : "FFFFFF",
     "AlphaBlendColorOp" : "Maximum"
   },
   "Players": [
     {
-      "Summoner": "PhoenixSlayer",
+      "Summoner": "ZenMaster",
       "Position": "Top"
     },
     {
-      "Summoner": "InfernoMage",
+      "Summoner": "TranquilShot",
       "Position": "Jungle"
     },
     {
-      "Summoner": "BlazeStrike",
+      "Summoner": "HarmonyTank",
       "Position": "Mid"
     },
     {
-      "Summoner": "FlameFury",
+      "Summoner": "CalmStriker",
       "Position": "Bot"
     },
     {
-      "Summoner": "IngniteKnight",
+      "Summoner": "PeacefulSage",
       "Position": "Support"
     },
     {

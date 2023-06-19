@@ -1,6 +1,7 @@
 {
   "TriCode": "PHX",
   "TeamName": "Phoenix Rising",
+  "15BoxName" : "PHX",
   "PrimaryColors": {
     "Color1" : "#FF4500",
     "Color2" : "",
@@ -31,7 +32,7 @@
       "Position": "Bot"
     },
     {
-      "Summoner": "IngniteKnight",
+      "Summoner": "IgniteKnight",
       "Position": "Support"
     },
     {

@@ -1,37 +1,38 @@
 {
-  "TriCode": "PHX",
-  "TeamName": "Phoenix Rising",
+  "TriCode": "TB",
+  "TeamName": "Thunderbolts",
+  "15BoxName" : "TB",
   "PrimaryColors": {
-    "Color1" : "#FF4500",
+    "Color1" : "#1E90FF",
     "Color2" : "",
-    "Color3" : "000000",
+    "Color3" : "FFFFFF",
     "AlphaBlendColorOp" : "Maximum"
   },
   "AlternateColors": {
-    "Color1" : "#FE2D2D",
+    "Color1" : "#1E90FF",
     "Color2" : "",
-    "Color3" : "White",
+    "Color3" : "FFFFFF",
     "AlphaBlendColorOp" : "Maximum"
   },
   "Players": [
     {
-      "Summoner": "PhoenixSlayer",
+      "Summoner": "StormStriker",
       "Position": "Top"
     },
     {
-      "Summoner": "InfernoMage",
+      "Summoner": "BoltMaster",
       "Position": "Jungle"
     },
     {
-      "Summoner": "BlazeStrike",
+      "Summoner": "ThunderShock",
       "Position": "Mid"
     },
     {
-      "Summoner": "FlameFury",
+      "Summoner": "ElectroBlade",
       "Position": "Bot"
     },
     {
-      "Summoner": "IngniteKnight",
+      "Summoner": "LightningFury",
       "Position": "Support"
     },
     {
