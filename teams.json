@@ -1,0 +1,69 @@
+{
+  "teams": [
+    {
+      "name": "Phoenix Rising",
+      "logo": "The logo of Phoenix Rising depicts a majestic phoenix with vibrant, fiery feathers, soaring upwards against a dark backdrop. The phoenix represents rebirth, power, and resilience, reflecting the team's determination to rise above challenges.",
+      "colors": ["#FF4500", "#000000"],
+      "triCode": "PHX",
+      "roster": [
+        "PhoenixSlayer",
+        "InfernoMage",
+        "BlazeStrike",
+        "FlameFury",
+        "IgniteKnight"
+      ]
+    },
+    {
+      "name": "Serenity Esports",
+      "logo": "The Serenity Esports logo features a serene mountain landscape, with a tranquil river flowing through it. The logo symbolizes calmness, balance, and focus, reflecting the team's composed and strategic approach to the game.",
+      "colors": ["#008080", "#FFFFFF"],
+      "triCode": "SE",
+      "roster": [
+        "ZenMaster",
+        "TranquilShot",
+        "HarmonyTank",
+        "CalmStriker",
+        "PeacefulSage"
+      ]
+    },
+    {
+      "name": "Thunderbolts",
+      "logo": "The Thunderbolts logo portrays a stylized lightning bolt striking through a stormy cloud. The design represents the team's explosive and electrifying gameplay, showcasing their quick reflexes and dominating presence.",
+      "colors": ["#1E90FF", "#FFFFFF"],
+      "triCode": "TB",
+      "roster": [
+        "StormStriker",
+        "BoltMaster",
+        "ThunderShock",
+        "ElectroBlade",
+        "LightningFury"
+      ]
+    },
+    {
+      "name": "Luminous Gaming",
+      "logo": "The Luminous Gaming logo features a radiant starburst emanating from a central point, symbolizing brilliance, energy, and a radiant spirit. The logo captures the team's vibrant and dazzling performance in the esports arena.",
+      "colors": ["#FFD700", "#000000"],
+      "triCode": "LG",
+      "roster": [
+        "RadiantGazer",
+        "LuminousStrike",
+        "ShiningWiz",
+        "GlowingShadow",
+        "DazzleKnight"
+      ]
+    },
+    {
+      "name": "Frostbite Clan",
+      "logo": "The Frostbite Clan logo depicts an icy blue snowflake, surrounded by frost-covered branches. The logo represents the team's icy determination, calculated strategies, and cool-headedness even in intense situations.",
+      "colors": ["#87CEEB", "#FFFFFF"],
+      "triCode": "FB",
+      "roster": [
+        "FrozenFang",
+        "ChillBlaster",
+        "IceShatter",
+        "FrostNova",
+        "GlacialWarrior"
+      ]
+    }
+  ]
+}
