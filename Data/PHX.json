@@ -1,0 +1,47 @@
+{
+  "TriCode": "PHX",
+  "TeamName": "Phoenix Rising",
+  "15BoxName" : "PHX",
+  "PrimaryColors": {
+    "Color1" : "#FF4500",
+    "Color2" : "",
+    "Color3" : "000000",
+    "AlphaBlendColorOp" : "Maximum"
+  },
+  "AlternateColors": {
+    "Color1" : "#FE2D2D",
+    "Color2" : "",
+    "Color3" : "White",
+    "AlphaBlendColorOp" : "Maximum"
+  },
+  "Players": [
+    {
+      "Summoner": "PhoenixSlayer",
+      "Position": "Top"
+    },
+    {
+      "Summoner": "InfernoMage",
+      "Position": "Jungle"
+    },
+    {
+      "Summoner": "BlazeStrike",
+      "Position": "Mid"
+    },
+    {
+      "Summoner": "FlameFury",
+      "Position": "Bot"
+    },
+    {
+      "Summoner": "IngniteKnight",
+      "Position": "Support"
+    },
+    {
+      "Summoner": "PMAHugo",
+      "Position": "Top"
+    },
+    {
+      "Summoner": "Hmeister",
+      "Position": "Jungle"
+    }
+  ]
+}
