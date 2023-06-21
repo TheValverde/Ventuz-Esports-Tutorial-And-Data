@@ -1,46 +1,39 @@
 {
   "TriCode": "TB",
   "TeamName": "Thunderbolts",
-  "15BoxName" : "TB",
   "PrimaryColors": {
     "Color1" : "#1E90FF",
     "Color2" : "",
-    "Color3" : "FFFFFF",
-    "AlphaBlendColorOp" : "Maximum"
+    "Color3" : "FFFFFF"
   },
-  "AlternateColors": {
-    "Color1" : "#1E90FF",
-    "Color2" : "",
-    "Color3" : "FFFFFF",
-    "AlphaBlendColorOp" : "Maximum"
-  },
+
   "Players": [
     {
-      "Summoner": "StormStriker",
+      "Name": "StormStriker",
       "Position": "Top"
     },
     {
-      "Summoner": "BoltMaster",
+      "Name": "BoltMaster",
       "Position": "Jungle"
     },
     {
-      "Summoner": "ThunderShock",
+      "Name": "ThunderShock",
       "Position": "Mid"
     },
     {
-      "Summoner": "ElectroBlade",
+      "Name": "ElectroBlade",
       "Position": "Bot"
     },
     {
-      "Summoner": "LightningFury",
+      "Name": "LightningFury",
       "Position": "Support"
     },
     {
-      "Summoner": "PMAHugo",
+      "Name": "PMAHugo",
       "Position": "Top"
     },
     {
-      "Summoner": "Hmeister",
+      "Name": "Hmeister",
       "Position": "Jungle"
     }
   ]

@@ -1,46 +1,38 @@
 {
   "TriCode": "SE",
   "TeamName": "Serenity ESports",
-  "15BoxName" : "SE",
   "PrimaryColors": {
     "Color1" : "#008080",
     "Color2" : "",
-    "Color3" : "FFFFFF",
-    "AlphaBlendColorOp" : "Maximum"
-  },
-  "AlternateColors": {
-    "Color1" : "#008080",
-    "Color2" : "",
-    "Color3" : "FFFFFF",
-    "AlphaBlendColorOp" : "Maximum"
+    "Color3" : "FFFFFF"
   },
   "Players": [
     {
-      "Summoner": "ZenMaster",
+      "Name": "ZenMaster",
       "Position": "Top"
     },
     {
-      "Summoner": "TranquilShot",
+      "Name": "TranquilShot",
       "Position": "Jungle"
     },
     {
-      "Summoner": "HarmonyTank",
+      "Name": "HarmonyTank",
       "Position": "Mid"
     },
     {
-      "Summoner": "CalmStriker",
+      "Name": "CalmStriker",
       "Position": "Bot"
     },
     {
-      "Summoner": "PeacefulSage",
+      "Name": "PeacefulSage",
       "Position": "Support"
     },
     {
-      "Summoner": "PMAHugo",
+      "Name": "PMAHugo",
       "Position": "Top"
     },
     {
-      "Summoner": "Hmeister",
+      "Name": "Hmeister",
       "Position": "Jungle"
     }
   ]
